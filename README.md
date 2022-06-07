@@ -17,9 +17,9 @@ delete catlib.txt file
 
 Install required dependencies
 
-'''
+```
 pip install opencv-python numpy imutils
-'''
+```
 
 If on Windows install Visual Studio Community with Desktop Development with C++ enabled
 
