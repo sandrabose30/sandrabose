@@ -23,13 +23,13 @@ pip install opencv-python numpy imutils
 
 If on Windows install Visual Studio Community with Desktop Development with C++ enabled
 
-'''
+```
 pip install cmake wheel dlib
-'''
+```
 
 ## Step 3 
 
-Replace path in code with your downloaded path in every py before running
+Open Each python file before running, change the folder path
 
 ### Order to Execute:
 
