@@ -27,19 +27,6 @@ If on Windows install Visual Studio Community with Desktop Development with C++ 
 pip install cmake wheel dlib
 '''
 
-## step 3
-
-Download Extra Dependencies to Project Folder
-
-### haarcascade_frontalface_default.xml
-https://github.com/kipr/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
-
-### shape_predictor_68_face_landmarks.dat.bz2
-
-https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
-
-Extract this downloaded file .bz2 to .dat
-
 ## Step 3 
 
 Replace path in code with your downloaded path in every py before running
